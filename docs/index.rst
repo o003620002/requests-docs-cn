@@ -45,11 +45,7 @@ Transifex、Native Instruments、Washington Post、Twitter、SoundCloud、Kippt�
     Requests 是一个完美的例子，它证明了通过恰到好处的抽象，API 可以写得多么优美。
 
 **Matt DeBoard**
-    我要想个办法，把 @kennethreitz 写的 Python requests 模块做成纹身。一字不漏。
 
-**Daniel Greenfeld**
-    感谢 @kennethreitz 的 Requests 库，刚刚用 10 行代码炸掉了 1200 行意大利面代码。\
-    今天真是爽呆了！
 
 **Kenny Meyers**
     Python HTTP: 疑惑与否，都去用 Requests 吧。简单优美，而且符合 Python 风格。
